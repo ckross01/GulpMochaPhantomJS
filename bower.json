@@ -1,0 +1,22 @@
+{
+  "name": "GulpMochaPhantomJS",
+  "version": "1.0.0",
+  "authors": [
+    "Chris Ross <Cross@demark.com>"
+  ],
+  "main": "server.js",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "sinon": "~1.12.2",
+    "should": "~4.4.2",
+    "angular": "~1.3.8"
+  }
+}

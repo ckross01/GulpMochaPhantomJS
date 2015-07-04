@@ -11,11 +11,11 @@
   "license": "MIT",
   "devDependencies": {
     "bower": "^1.4.1",
-    "gulp": "^3.8.11",
+    "gulp": "^3.9.0",
     "gulp-mocha-phantomjs": "^0.6.1",
     "gulp-notify": "^2.2.0",
-    "mocha": "^2.2.4",
-    "should": "^4.4.2",
-    "sinon": "^1.14.1"
+    "mocha": "^2.2.5",
+    "should": "^4.6.5",
+    "sinon": "^1.15.4"
   }
 }

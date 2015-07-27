@@ -15,7 +15,7 @@
     "gulp-mocha-phantomjs": "^0.6.1",
     "gulp-notify": "^2.2.0",
     "mocha": "^2.2.5",
-    "should": "^4.6.5",
+    "should": "^7.0.2",
     "sinon": "^1.15.4"
   }
 }
